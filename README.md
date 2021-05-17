@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate Software Engineer from England</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbloodworth95" alt="dbloodworth95" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbloodworth95&theme=onedark" alt="dbloodworth95" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
